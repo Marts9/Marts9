@@ -1,0 +1,13 @@
+cambiar fondo blanco-negro
+
+agregar portada 1er proyecto
+desarrollar pagina y slide
+
+slider con tiempo de visualizacion
+puntitos para las fotos 
+contador de fotos
+flechita minimalista
+
+https://swiffyslider.com/examples/
+
+ y configurar zoom en imagenes html

@@ -1,0 +1,45 @@
+:root {
+  --main-white: #f0f0f0;
+  --main-black: #303841;
+  --main-gray: #303841;
+  --main-blue: #45567d;
+/*Nuevos*/
+  --main-dark: #020000;
+  --main-brick: #6A312A;
+  --main-dbrick: #3A1C1C;
+  --main-lblue: #344C69;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color: var(--main-lblue);
+  text-align: center;
+  color: white;
+  font-family: Helvetica;
+}
+
+
+
+
+#zoom {
+  width: 100%;
+  height: 100%;
+  transform-origin: 0px 0px;
+  transform: scale(1) translate(0px, 0px);
+  cursor: grab;
+  border: 1px solid black;
+}
+div#zoom > img {
+  width: 100%;
+  height: auto;
+}
+
+/*slider*/
+
+.wraper{
+  width: 100%;
+  ;
+  
+}
+
