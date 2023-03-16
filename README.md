@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marts9
 - 👀 I’m interested in information technology
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on proyects or similar
+- 🌱 I’m web developer 
+- ✨Ilustrator designer
 - 📫 How to reach me martinfernandezyarza@gmail.com
 
 <!---
